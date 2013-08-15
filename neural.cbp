@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="neural" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/neural" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/neural" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="FANN/CMakeLists.txt" />
+		<Unit filename="FANN/COPYING.txt" />
+		<Unit filename="FANN/README.txt" />
+		<Unit filename="FANN/cmake/Modules/DefineInstallationPaths.cmake" />
+		<Unit filename="FANN/cmake/config.h.cmake" />
+		<Unit filename="FANN/cmake/fann.pc.cmake" />
+		<Unit filename="FANN/datasets/bank32fm.train" />
+		<Unit filename="FANN/src/fann.o" />
+		<Unit filename="FANN/src/fann_cascade.o" />
+		<Unit filename="FANN/src/fann_error.o" />
+		<Unit filename="FANN/src/fann_io.o" />
+		<Unit filename="FANN/src/fann_train.o" />
+		<Unit filename="FANN/src/fann_train_data.o" />
+		<Unit filename="FANN/src/include/compat_time.h" />
+		<Unit filename="FANN/src/include/config.h" />
+		<Unit filename="FANN/src/include/doublefann.h" />
+		<Unit filename="FANN/src/include/fann.h">
+			<Option compilerVar="C" />
+		</Unit>
+		<Unit filename="FANN/src/include/fann_activation.h" />
+		<Unit filename="FANN/src/include/fann_cascade.h" />
+		<Unit filename="FANN/src/include/fann_cpp.h" />
+		<Unit filename="FANN/src/include/fann_data.h" />
+		<Unit filename="FANN/src/include/fann_error.h" />
+		<Unit filename="FANN/src/include/fann_internal.h" />
+		<Unit filename="FANN/src/include/fann_io.h" />
+		<Unit filename="FANN/src/include/fann_train.h" />
+		<Unit filename="FANN/src/include/fixedfann.h" />
+		<Unit filename="FANN/src/include/floatfann.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<envvars />
+			<code_completion />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,312 @@
+&#160;Ne doit pas être confondu avec World Wide Web.
+  Internautes par millier d'habitants dans le monde en 2009
+  Visualisation des multiples chemins à travers une portion d'Internet
+Internet est un système d'interconnexion de machines et constitue un réseau informatique mondial, utilisant un ensemble standardisé de protocoles de transfert de données. C'est donc un réseau de réseaux, sans centre névralgique, composé de millions de réseaux aussi bien publics que privés, universitaires, commerciaux et gouvernementaux. Internet transporte un large spectre d'information et permet l'élaboration d'applications et de services variés comme le courrier électronique, la messagerie instantanée et le World Wide Web.
+Internet ayant été popularisé par l'apparition du World Wide Web, les deux sont parfois confondus par le public non averti. Le World Wide Web n'est pourtant que l'une des applications d'Internet.
+L'accès à Internet peut être obtenu grâce à un fournisseur d'accès à Internet via divers moyens de communication électronique&#160;: soit filaire (réseau téléphonique commuté (bas débit), ADSL, fibre optique jusqu'au domicile), soit sans fil (WiMAX, par satellite, 3G+). Un utilisateur d'Internet est désigné par le néologisme «&#160;internaute&#160;».
+
+Sommaire
+
+1 Terminologie
+2 Historique
+3 Gouvernance
+
+3.1 Au niveau régional (continents)
+3.2 Neutralité du réseau
+
+
+4 Aspects juridiques
+5 Technique
+
+5.1 Connexions grand public
+5.2 Centre de traitement de données
+5.3 Infrastructures matérielles
+5.4 Protocoles logiciels
+
+
+6 Considérations sociales
+
+6.1 Statistiques
+6.2 Internet comme outil de mobilisation
+6.3 Fracture numérique
+
+
+7 Notes et références
+8 Voir aussi
+
+8.1 Bibliographie
+8.2 Articles connexes
+8.3 Liens externes
+
+
+
+
+Terminologie[modifier | modifier la source]
+Le terme d'origine américaine «&#160;Internet&#160;» est dérivé du concept d'internetting (en français&#160;: « interconnecter des réseaux ») dont la première utilisation documentée remonte à octobre 1972 par Robert E. Kahn[1]  au cours de la première ICCC (International Conference on Computer Communications) à Washington.
+Les origines exactes du terme Internet restent à déterminer. Toutefois, c'est le 1er&#160;janvier&#160;1983 que le nom «&#160;Internet&#160;», déjà en usage pour désigner l'ensemble d'ARPANET et plusieurs réseaux informatiques, est devenu officiel[2].
+En anglais, on utilise un article défini et une majuscule, ce qui donne the Internet. Cet usage vient du fait que «&#160;Internet&#160;» est de loin le réseau le plus étendu, le plus grand «&#160;internet&#160;» du monde, et donc, en tant qu'objet unique, désigné par un nom propre. Un internet (un nom commun avec «&#160;i&#160;» minuscule) est un terme d'origine anglaise utilisé pour désigner un réseau constitué de l'interconnexion de plusieurs réseaux informatiques au moyen de routeurs[3].
+Une publication au Journal officiel de la République française indique qu'il faut utiliser le mot «&#160;internet&#160;» comme un nom commun, c'est-à-dire sans majuscule[4]. L'Académie française recommande de dire «&#160;l'internet&#160;»[5]. Il existe une controverse sur le sujet entre les partisans des expressions «&#160;l'Internet&#160;» , «&#160;l'internet&#160;» , «&#160;Internet&#160;» et «&#160;internet&#160;»[6].
+
+Historique[modifier | modifier la source]
+Article détaillé&#160;: Histoire d'Internet.
+Les mémos que Licklider du Massachusetts Institute of Technology (MIT) écrivit en juillet 1962 sont les plus anciens textes décrivant les interactions sociales qui seraient possibles avec un réseau d'ordinateurs. Cela devait notamment faciliter les communications entre chercheurs de la Defense Advanced Research Projects Agency (DARPA). En octobre 1962, Licklider fut le premier chef du programme de recherche en informatique de la DARPA. Il persuada ses successeurs Ivan Sutherland, Bob Taylor et le chercheur du MIT Lawrence G. Roberts de l'intérêt des réseaux informatiques.
+En 1961, Leonard Kleinrock du MIT publia le premier texte théorique sur les télécommunications par paquets et en 1964 il publia le premier livre sur le sujet.
+En 1965, Roberts testa avec Thomas Merrill la première connexion informatique à longue distance, entre le Massachusetts et la Californie. Le résultat montra que des ordinateurs pouvaient travailler ensemble à distance, mais que le mode de télécommunication par établissement de circuit du système téléphonique était inadapté. Le concept de communication par paquets de Kleinrock s'imposa.
+En 1966, Roberts fut engagé par Taylor à la DARPA pour concevoir l'ARPANET. Il publia les plans en 1967. En présentant ce texte, il découvrit deux autres groupes de chercheurs travaillant indépendamment sur le même sujet&#160;: un groupe du National Physical Laboratory (NPL) du Royaume-Uni avec Donald Davies et Roger Scantlebury, et un groupe de la RAND Corporation avec Paul Baran.
+Entre 1962 et 1965, le groupe de la RAND avait étudié la transmission par paquets pour l'armée américaine. Le but était de pouvoir maintenir les télécommunications en cas d'attaque (éventuellement nucléaire), ce que permet une transmission par paquets dans un réseau non centralisé. Il s'agissait d'un développement indépendant d'ARPANET&#160;: bien que probablement robuste face à une telle attaque, ARPANET n'a pourtant été conçu que pour faciliter les télécommunications entre chercheurs. Le rapport de Paul Baran est resté purement théorique, et est rapidement tombé dans l'oubli. Mais le mythe d'«&#160;ARPANET comme dernier rempart à une attaque atomique&#160;» trouve là son origine.
+Pendant ce temps, au British National Physical Laboratory, l'équipe de Donald Davies avait progressé&#160;: NPL Network, le premier réseau maillé fondé sur la transmission de datagrammes (packets) était fonctionnel. Mais l'histoire d'Internet n'a pas été écrite par les Européens&#160;: ARPANET sera désormais l'origine officielle d'Internet.
+En août 1968, la DARPA accepta de financer le développement du matériel de routage des paquets d'ARPANET. Ce développement fut confié en décembre à un groupe de la firme Bolt, Beranek and Newman (BBN) de Boston. Ce dernier travailla avec Bob Kahn sur l'architecture du réseau. Roberts améliorait les aspects topologiques et économiques du réseau. Kleinrock préparait des systèmes de mesures du réseau.
+Le 20 septembre 1969, BBN installa le premier équipement à l'UCLA où travaillait Kleinrock. Le second nœud du réseau fut installé au Stanford Research Institute (SRI) où travaillait Douglas Engelbart sur un projet d'hypertexte. Deux nœuds supplémentaires furent ajoutés avec l'université de Santa Barbara et l'université d'Utah. Fin 1969, ARPANET comptait donc quatre nœuds.
+Le Network Working Group (NWG) conduit par Steve Crocker finit le protocole de communication poste-à-poste NCP en décembre 1970. Ce protocole fut adopté entre 1971 et 1972 par les sites branchés à ARPANET. Ceci permit le développement d'applications par les utilisateurs du réseau.
+En 1972, Ray Tomlinson mit au point la première application importante&#160;: le courrier électronique. En octobre 1972, Kahn organisa la première démonstration à grande échelle d'ARPANET à l'International Computer Communication Conference (ICCC). C'était la première démonstration publique.
+Le concept d'Internet est né d'ARPANET. L'idée était de permettre la connexion entre des réseaux divers&#160;: ARPANET, des communications avec les satellites, des communications par radio. Cette idée fut introduite par Kahn en 1972 sous le nom de Internetting. Le protocole NCP d'ARPANET ne permettait pas d'adresser des hôtes hors d'ARPANET ni de corriger d'éventuelles erreurs de transmission. Kahn décida donc de développer un nouveau protocole, qui devint finalement TCP/IP.
+En parallèle, un projet inspiré par ARPANET était dirigé en France par Louis Pouzin&#160;: le projet Cyclades. De nombreuses propriétés de TCP/IP ont ainsi été développées, plus tôt, pour Cyclades. Pouzin et Kahn indiquent que TCP/IP a été inspiré par Cyclades. |
+En 1973, Kahn demanda à Vint Cerf (parfois appelé le père d'Internet) de travailler avec lui, car Cerf connaissait les détails de mise en œuvre de NCP. Le premier document faisant référence à TCP est écrit en 1973 par Cerf&#160;: A Partial Specification of an International Transmission Protocol. La première spécification formelle de TCP date de décembre 1974, c'est le RFC 675.
+La version initiale de TCP ne permettait que la communication en établissant un circuit virtuel. Cela fonctionnait bien pour le transfert de fichiers ou le travail à distance, mais n'était pas adapté à des applications comme la téléphonie par Internet. TCP fut donc séparé de IP et UDP proposé pour les transmissions sans établissement d'un circuit.
+À la fin des années 1980, la NSF (National Science Foundation) qui dépend de l'administration américaine, met en place cinq centres informatiques surpuissants, auxquels les utilisateurs pouvaient se connecter, quel que soit le lieu où ils se trouvaient aux États-Unis&#160;: ARPANET devenait ainsi accessible sur une plus grande échelle. Le système rencontra un franc succès et, après la mise à niveau importante (matériels et lignes) à la fin des années 1980, s'ouvrit au trafic commercial au début des années 1990.
+Le début des années 1990 marque, en fait, la naissance de l'aspect le plus connu d'Internet aujourd'hui&#160;: le web, un ensemble de pages en HTML mélangeant du texte, des liens, des images, adressables via une URL et accessibles via le protocole HTTP.  Ces standards, développés au CERN par Tim Berners-Lee et Robert Cailliau devinrent rapidement populaires grâce au développement au NCSA par Marc Andreessen et Éric Bina du premier navigateur multimédia Mosaic.
+En janvier 1992, l’Internet Society (ISOC) voit le jour avec pour objectif de promouvoir et de coordonner les développements sur Internet. L’année 1993 voit l’apparition du premier navigateur web ou butineur (browser), supportant le texte et les images. Cette même année, la National Science Foundation (NSF) mandate une compagnie pour enregistrer les noms de domaine.
+
+Gouvernance[modifier | modifier la source]
+  Nombre d'utilisateurs par pays en 2006 (sources CIA)
+Article détaillé&#160;: Gouvernance d'Internet.
+Selon la définition du groupe de travail sur la gouvernance d'Internet, il faut entendre par «&#160;gouvernance de l’Internet&#160;» l’élaboration et l’application par les États, le secteur privé et la société civile, dans le cadre de leurs rôles respectifs, de principes, normes, règles, procédures de prise de décisions et programmes communs propres à modeler l’évolution et l’usage de l’Internet.
+Les registres de métadonnées sont importants dans l'établissement de règles d'accès aux ressources web qui utilisent les Uniform Resource Identifiers (qui peuvent être les URL qui s'affichent sur la barre de navigation de l'ordinateur personnel).
+Un certain nombre d'organismes sont chargés de la gestion d'Internet, avec des attributions spécifiques. Ils participent à l'élaboration des standards techniques, l'attribution des noms de domaines, des adresses IP, etc.&#160;:
+
+ Internet Corporation for Assigned Names and Numbers (ICANN), sous la tutelle du Département du Commerce des États-Unis&#160;;
+ Internet Engineering Task Force (IETF) qui s'occupe des aspects architecturaux et techniques,
+ Internet Society (ISOC).
+
+Dans un but de maintenir ou d'élargir la neutralité des réseaux, mais aussi d'engager les diverses parties globales dans un dialogue sur le sujet de la gouvernance, les Nations unies ont convoqué&#160;:
+
+ le Sommet mondial sur la société de l'information&#160;;
+ le Forum sur la gouvernance de l'Internet.
+
+La gestion des ressources numériques essentielles au fonctionnement d'Internet est confiée à l'Internet Assigned Numbers Authority (IANA), celle-ci délègue l'assignation des blocs d'adresses IP et de numéros d'Autonomous System aux registres Internet régionaux.
+
+Au niveau régional (continents)[modifier | modifier la source]
+Dans l'Union européenne&#160;:
+Voir Utilisation de l'URI pour l'accès aux ressources informatiques dans l'Union européenne
+
+Neutralité du réseau[modifier | modifier la source]
+Article principal&#160;: Neutralité du réseau.
+La neutralité du Net ou la neutralité du réseau est un principe fondateur d'Internet qui exclut toute discrimination à l'égard de la source, de la destination ou du contenu de l'information transmise sur le réseau.
+Mais de récents développements technologiques tendent à mettre fin à cette ouverture caractéristique d'Internet.
+C'est aujourd'hui un grand enjeu technico-économique et socio-éthique.
+
+Aspects juridiques[modifier | modifier la source]
+  Pays restreignant l'accès à Internet d'après Reporters sans frontières.
+Le droit d'Internet regroupe l'ensemble des règles de droit applicables au réseau Internet.
+Il n'existe pas de droit spécifique à Internet, mais plutôt une application du droit commun au réseau Internet, avec cependant l'apparition d'aménagements de certaines législations nationales afin de prendre en compte ces particularités (ex. en France&#160;: la Loi pour la confiance dans l'économie numérique (LCEN) du 21&#160;juin&#160;2004).
+Selon Benjamin Bayart, activiste pour la neutralité de réseaux, l'avis du Conseil constitutionnel rendu le 10 juin 2009[note 1] confirme qu'«&#160;Internet est essentiel à l’exercice de la liberté d’expression&#160;»[7].
+L'application du droit sur Internet est rendue difficile pour deux raisons principales&#160;:
+
+ le réseau Internet est international, or le droit est généralement national.
+ sous le couvert du réseau Internet, il est souvent difficile d'identifier les utilisateurs, et donc les responsables d'infractions.
+
+Internet soulève notamment des questions de droit relatives à la propriété intellectuelle (droit d'auteur, droit des marques, etc.), au droit de la presse et des publications (infractions de presse, injure, diffamation, incitation à la haine raciale, etc.), au droit à l'image, mais aussi depuis le développement du web commercial, au droit de la publicité, au droit du commerce, etc.
+
+Technique[modifier | modifier la source]
+  Transit du trafic IP entre un ordinateur et un serveur. Chaque routeur oriente le trafic vers un routeur voisin plus proche de la destination.
+Internet est constitué de la multitude de réseaux répartis dans le monde entier et interconnectés. Chaque réseau est rattaché à une entité propre (université, fournisseur d'accès à Internet, armée) et est associé à un identifiant unique appelé Autonomous System (AS) utilisé par le protocole de routage BGP. Afin de pouvoir communiquer entre eux, les réseaux s'échangent des données, soit en établissant une liaison directe, soit en se rattachant à un nœud d'échange (point de peering). Ces échanges peuvent se limiter au trafic entre leurs utilisateurs respectifs (on parle alors de peering) ou bien inclure le trafic de tiers (il s'agit alors d'accord de transit). Un opérateur qui fournit un service de transit Internet à d'autres fournisseurs d'accès est appelé carrier. Ces accords d'échange de trafic sont libres, ils ne font pas l'objet d'une régulation par une autorité centrale.
+Chaque réseau est connecté à un ou plusieurs autres réseaux. Lorsque des données doivent être transmises d'un ordinateur vers un autre appartenant à un AS différent, il faut alors déterminer le chemin à effectuer parmi les réseaux. Les routeurs chargés du trafic entre les AS disposent généralement d'une table de routage complète (Full routing table)[8] de plus de 440 000&#160;routes en 2013[9], et transmettent le trafic à un routeur voisin et plus proche de la destination après consultation de leur table de routage.
+Des chercheurs israéliens de l'université Bar-Ilan ont déclaré après avoir analysé les nœuds reliant l'ensemble des sites qu'Internet est un réseau méduse. Ils la définissent comme ayant un cœur dense connectés à une multitude d'autres sites, qui ne sont reliés entre eux que par ce cœur, semblable à un maillage à structure fractale. Cette zone permet à 70&#160;% du réseau de rester connecté sans passer par le cœur. Les chercheurs indiquent donc cette zone comme piste pour désengorger le trafic, en répartissant mieux les sites de cette zone[10].
+En pratique, ces connexions sont réalisées par des infrastructures matérielles, et des protocoles informatiques.
+Ces connexions permettent notamment de relier des connexions grand public à des Centre de traitement de données.
+
+Connexions grand public[modifier | modifier la source]
+Article détaillé&#160;: Accès à Internet.
+L'accès à Internet est souvent vendu sous la forme d'offre commerciale de services, avec un abonnement fixe ou un paiement aux données consommées.
+Certaines organisations, notamment les universités européennes, disposent de leurs propres réseaux (ex.&#160;: Renater).
+Pour accéder à Internet il faut disposer d'un équipement IP ainsi qu'une connexion à un fournisseur d'accès. Pour cela, l'utilisateur emploie les matériel et logiciel suivants&#160;:
+
+ Un ordinateur personnel ou tout autre équipement terminal d'un réseau&#160;:
+ Assistant personnel,
+ Console de jeux vidéo,
+ Téléphone mobile&#160;;
+
+ Un canal de communication vers le fournisseur d'accès&#160;:
+ Fibre optique,
+ Ligne téléphonique fixe&#160;: ligne analogique, xDSL,
+ Ligne téléphonique mobile&#160;: 4G+, 3G, Edge, GPRS, GSM (CSD),
+ Internet par satellite,
+ Wi-Fi&#160;;
+
+ Un système (logiciel/matériel) client pour le protocole réseau utilisé (PPP, PPPoX, Ethernet, ATM, etc.)&#160;;
+ Un fournisseur d'accès à Internet (FAI) (en anglais ISP pour Internet Service Provider)&#160;;
+
+Des logiciels sont, eux, nécessaires pour exploiter Internet suivant les usages&#160;:
+
+ Courrier électronique&#160;: un client SMTP et POP (ou POP3) ou IMAP (ou IMAP4)&#160;;
+ Transferts de fichiers&#160;: un client ou un serveur FTP (File Transfert Protocol)&#160;;
+ World Wide Web&#160;: un navigateur web&#160;;
+ Pair à pair&#160;: l'un des nombreux logiciels de P2P en fonction de l'usage (partage de fichiers en pair à pair,  Calcul distribué, P2P VoIP, etc.).
+
+Centre de traitement de données[modifier | modifier la source]
+Article détaillé&#160;: Centre de traitement de données.
+Les centres de traitement de données sont des lieux occupés par des serveurs.
+Avant la bulle Internet, des millions de mètres carrés destinés à abriter de tels centres furent construits dans l'espoir de les voir occupés par des serveurs. Depuis, la concentration des centres s'est poursuivie, avec le développement de centres spécialisés pour lesquels les défis les plus importants sont la maîtrise de la climatisation et surtout de la consommation électrique. Ce mouvement a été intégré dans le green computing et vise à aboutir à des centres de traitement de données dits écologiques pour lesquels sont apparus des outils spécialisés[11].
+
+Infrastructures matérielles[modifier | modifier la source]
+Article détaillé&#160;: Maillage de l'infrastructure Internet en France.
+Internet repose sur la transmission d'information d'un point à un autre. Cette transmission se fait généralement au moyen d'ondes électromagnétiques. Les différents points sont donc connectés soit physiquement, soit indirectement à travers d'autres points.
+Ces ondes peuvent être transmises dans l'air (technologies sans fil), dans une fibre optique ou dans un câble métallique (technologies filaires).
+Lorsque l'information doit passer d'une voie vers une autre, elle est aiguillée au moyen de matériels dédiés (switch, routeurs).
+
+Protocoles logiciels[modifier | modifier la source]
+Les protocoles logiciels utilisés sur internet sont les conventions structurant les échanges d'informations nécessaires au transfert des contenus applicatifs pour l'usager final. Ils permettent notamment d'identifier les interfaces (donc les machines), de s'assurer de la réception des données envoyées, et de l'interopérabilité.
+Internet fonctionne suivant un modèle en couches, similaire au modèle OSI. Les éléments appartenant aux mêmes couches utilisent un protocole de communication pour s'échanger des informations.
+Un protocole est un ensemble de règles qui définissent un langage afin de faire communiquer plusieurs ordinateurs. Ils sont définis par des normes ouvertes, les RFC.
+Chaque protocole a des fonctions propres et, ensemble, ils fournissent un éventail de moyens permettant de répondre à la multiplicité et à la diversité des besoins sur Internet.
+Les principaux sont les suivants, classés selon leur couche (IP, TCP et UDP)&#160;; couches applicatives&#160;:
+
+ IP (Internet Protocol) aussi appelé IPv4&#160;: protocole réseau qui définit le mode d'échange élémentaire entre les ordinateurs participant au réseau en leur donnant une adresse unique sur celui-ci. Cependant, en raison du nombre d'internautes croissant, une nouvelle norme voit le jour&#160;; nommée IPv6, elle permet d'accueillir un plus grand nombre d'utilisateurs. 
+ TCP&#160;: responsable de l'établissement de la connexion et du contrôle de la transmission. C'est un protocole de remise fiable. Il s'assure que le destinataire a bien reçu les données, au contraire d'UDP.
+ HTTP (HyperText Transfer Protocol)&#160;: protocole mis en œuvre pour le chargement des pages web.
+ HTTPS&#160;: pendant du HTTP pour la navigation en mode sécurisé.
+ FTP (File Transfer Protocol)&#160;: protocole utilisé pour le transfert de fichiers sur Internet.
+ SMTP (Simple Mail Transfer Protocol)&#160;: mode d'échange du courrier électronique en envoi.
+ POP3 (Post Office Protocol version 3)&#160;: mode d'échange du courrier électronique en réception.
+ IMAP (Internet Message Access Protocol)&#160;: un autre mode d'échange de courrier électronique.
+ IRC (Internet Relay Chat)&#160;: protocole de discussion instantanée.
+ NNTP (Network News Transfer Protocol)&#160;: protocole de transfert de message utilisé par les forums de discussion Usenet
+ SSL ou TLS&#160;: protocoles de transaction sécurisée, utilisés notamment pour le paiement sécurisé.
+
+ UDP&#160;: permet de communiquer, de façon non fiable mais légère, par petits datagrammes.
+ DNS (Domain Name System)&#160;: système de résolution de noms Internet.
+
+ ICMP (Internet Control Message Protocol)&#160;: protocole de contrôle du protocole IP.
+
+
+Suite à l'épuisement des adresses IPv4, le protocole IPv6 a été développé. Celui-ci dispose d'un espace d'adressage considérable.
+Indépendamment du transfert entre deux points, les routeurs doivent pouvoir s'échanger des informations de routage. Un IGP (Interior Gateway Protocol) et un EGP (Exterior Gateway Protocol) comme BGP (Border Gateway Protocol) satisfont ce besoin.
+
+Considérations sociales[modifier | modifier la source]
+Statistiques[modifier | modifier la source]
+Article détaillé&#160;: Internet dans le monde.
+Selon Internet World Stats[12], il a été recensé 2,4&#160;milliards d'internautes en juin&#160;2012.
+
+
+
+   Évolution du nombre d'internautes entre 1990 et 2004.
+
+   Évolution du nombre de serveurs entre 1992 et 2006.
+
+   Évolution du nombre de routes sur Internet depuis 1989.
+
+Internet comme outil de mobilisation[modifier | modifier la source]
+Internet a commencé à se développer dans le monde dans les années 1995-2000, au moment où la communauté des informaticiens se préparait au passage à l'an 2000 (appelé Y2K dans le monde anglosaxon). Le consultant canadien Peter de Jaeger a largement contribué dans ces années à la mobilisation mondiale, grâce à son site internet year2000.com, qui était à l'époque le site le plus interconnecté au monde. À l'occasion du 10e anniversaire du passage à l'an 2000, Peter de Jaeger a reçu le Lifeboat Foundation’s 2009 Guardian Award. Eric Klien, président de la Lifeboat Foundation, a salué les efforts de Peter de Jaeger en ajoutant&#160;:
+
+«&#160;Let us learn from the Y2K success by applying its worldwide mobilization method to future problems and not mislearn from it that all future problems will just solve themselves somehow so we can ignore them.&#160;»
+ «&#160;Tirons les leçons du succès du passage informatique à l'an 2000  en appliquant sa méthode de mobilisation mondiale à des problèmes futurs, et sans croire que tous les problèmes futurs se résoudront d'eux-mêmes alors même qu'on les ignorerait.&#160;»[13]
+
+Alors même que certains experts dénoncent de mauvaises hypothèses sur le rôle des techniques de l'information et de la communication par rapport aux problèmes d'environnement, les mêmes experts soulignent qu'internet peut jouer un rôle très important pour la mobilisation des citoyens sur les questions de responsabilité sociale et de développement durable. Internet est en effet un réseau de vigilance, alimenté par les associations, les ONG, et les gouvernements, accessible à tous les citoyens (au moins dans les pays les plus développés), et qui peut en outre servir de source d'information pour les médias. La convention d'Aarhus, signée en 1998 par trente-neuf États, porte sur l'accès à l'information et la participation du public au processus décisionnel. En France, elle a donné lieu au portail Toutsurlenvironnement.fr, qui publie de nombreuses informations environnementales. L'internet de deuxième génération (web 2.0), fournit des plateformes d'échange entre utilisateurs grâce à des services collaboratifs tels que les wikis. L'encyclopédie Wikipédia en est d'ailleurs un excellent exemple[14].
+Internet est souvent employé comme outil de mobilisation par les organisations non gouvernementales et altermondialistes, comme par exemple Attac[15].
+Par ailleurs, des groupuscules politiques utilisent Internet comme un canal de sensibilisation et de propagande. La célèbre activiste Aurora a été en la matière l'une des pionnières de la « territorialisation politique d'Internet »[réf.&#160;nécessaire].
+La tendance apparue depuis 2012 environ en France est à une articulation entre l'usage offensif d'internet par le biais des réseaux sociaux et l'expression publique dans la rue. Elle introduit des combinaisons innovantes entre les manifestations de rue et les techniques de prise de parole (sites internet, blogues, pages Facebook) ou les terminaux mobiles (SMS, prise d'images et de vidéos)[16].
+
+Fracture numérique[modifier | modifier la source]
+Article détaillé&#160;: Fracture numérique.
+La fracture numérique est la disparité d'accès aux technologies informatiques, notamment Internet. Elle recouvre parfois le clivage entre «&#160;les info-émetteurs et les info-récepteurs&#160;»[17]. Cette disparité est fortement marquée d'une part entre les pays riches et les pays pauvres, d'autre part entre les zones urbaines denses et les zones rurales. Elle existe également à l'intérieur des zones moyennement denses&#160;: ainsi en région parisienne, 25&#160;% des lignes ne peuvent avoir un débit ADSL supérieur à 5&#160;Mbit/s.
+
+Notes et références[modifier | modifier la source]
+Notes
+
+
+
+↑ À l'occasion de l'examen de la Loi Création et Internet
+
+
+
+Références
+
+
+
+↑ (en)  Officers &amp; Directors - Robert E. Kahn
+
+↑ A Closer Look At The Controversy Over The Internet's Birthday! You Decide
+
+↑ TCP/IP Illustrated, Volume 1, The Protocols, W. Richard Stevens, chap. 1.13.
+
+↑ Commission générale de terminologie et de néologie. Liste des termes, expressions et définitions adoptées, Vocabulaire de l'informatique et de l'internet, NOR: CTNX9903444K, JORF du 16 mars 1999 (p.&#160;3907)
+
+↑ Dans la 9e édition de son Dictionnaire, l'Académie écrit «&#160;Un ordinateur connecté à l'internet.&#160;» source sur le site CNRTL.
+
+↑ «&#160;Clés pour Internet&#160;», Economica, 2001, page 19
+
+↑ Benjamin Bayart, «&#160;La neutralité du réseau&#160;: Extrait du livre La bataille Hadopi&#160;», framablog, Octobre 2009&#32;[texte intégral]&#160;
+
+↑ Analyzing the Internet BGP Routing Table
+
+↑ BGP routing table analysis
+
+↑ Science &amp; Avenir, août&#160;2007, page 19
+
+↑ Climatisation et serveurs&#160;: vers des salles informatiques plus vertes, Thierry Lévy-Abégnoli, ZDNet France, le 5&#160;décembre&#160;2007
+
+↑ World Internet Usage Statistics News and Population Stats
+
+↑ (en) Y2K leader is recognized for worldwide efforts to avert problems
+
+↑ Florence Rodhain, Bernard Fallery, après la crise de conscience écologique, les TIC en quête de responsabilité sociale
+
+↑ Éric Georges, de l'utilisation d'internet comme outil de mobilisation&#160;: les cas d'Attac et de SalAMI, Sociologie et sociétés, vol. 32, n° 2, 2000, p. 172-188
+
+↑ Christian Harbulot, « Mouvement de masse et guerre de l’information&#160;», 29 avril 2013
+
+↑ Hervé Le Crosnier, SMSI, Genève du 10 au 12 décembre 2003, cité par Dominique Lahary «&#160;La propriété intellectuelle s'invite au sommet de l'information&#160;» in Bulletin des bibliothèques de France t. 49, n°2, p.104. 
+
+
+
+Voir aussi[modifier | modifier la source]
+
+Sur les autres projets Wikimedia&#160;:
+
+Internet, sur Wikimedia CommonsInternet, sur le WiktionnaireRecherche d'information sur internet, sur WikibooksInternet, sur WikiquoteInternet, sur Wikinews
+
+
+Bibliographie[modifier | modifier la source]
+ L’ère d’Internet Les enjeux d’un réseau global, Dossier Pour la Science, n° 66, janvier-mars 2010.
+  L'analyse des sites internet, Sébastien Rouquette, INA/De Boeck, 2009, 300 p.
+ Jacques Vallée, Au cœur d'Internet&#160;: un pionnier français du réseau examine son histoire et s'interroge sur l'avenir, Balland, 2004 [lire en ligne]&#160;
+
+Articles connexes[modifier | modifier la source]
+
+ Technologies de l'information et de la communication
+ World Wide Web
+ Internet Corporation for Assigned Names and Numbers (ICANN)
+ Gouvernance d'internet
+ Accessibilité du web
+ Nomadisme numérique
+ Bulle Internet
+ Commerce électronique
+ Courrier électronique
+ Dématérialisation
+ Internet Archive
+ Internet par satellite
+ Intranet
+ Libertés sur Internet
+ Société de l'information
+ Internet en France
+ Haut débit en France
+ Aménagement numérique
+ Travail collaboratif
+ Espace public numérique
+ Plateforme numérique de travail
+ Formation en ligne
+
+
+Liens externes[modifier | modifier la source]
+ (fr) Une histoire alternative et distrayante d'Internet.;
+ (fr) Qu'est-ce qu'Internet?, cycle de trois conférences donné à Sciences Po par Benjamin Bayart;
+ (en) RFC 791 internet protocol, septembre&#160;1981, définition des paquets IP et de leur circulation, base du fonctionnement d'un internet et d'Internet&#160;;
+ (en) RFC 1000 The request for comments reference guide, août&#160;1987, l'histoire des débuts d'Internet et des premiers RFC&#160;;
+ (en) RFC 1462 What is the Internet?, mai&#160;1993, une tentative de réponse à cette question&#160;;
+ (en) RFC 1580 (FYI 23) Guide to Network Resource Tools, mars&#160;1994, présentation des applications d'Internet&#160;;
+ (en) Internet history, histoire illustrée&#160;;
+ (en) Internet Pioneers, avec plusieurs biographies&#160;;
+ (fr) Web culture&#160;: nouveaux modes de connaissance, nouvelles sociabilités, un dossier publié par La Clé des langues&#160;;
+ (fr) Le monde en réseau: article de synthèse paru dans Textes et Documents pour la Classe, octobre&#160;2012,&#160;;
+
+ Portail des télécommunications  Portail Internet  Portail de l’informatique 

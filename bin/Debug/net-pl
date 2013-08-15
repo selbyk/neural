@@ -1,0 +1,123 @@
+  Wizualizacja różnych dróg w części Internetu
+Internet (skrótowiec od ang. inter-network, dosłownie "między-sieć") – ogólnoświatowa sieć komputerowa, określana również jako sieć sieci[1]. W znaczeniu informatycznym Internet to przestrzeń adresów IP przydzielonych hostom i serwerom połączonym za pomocą urządzeń sieciowych, takich jak karty sieciowe, modemy i koncentratory, komunikujących się za pomocą protokołu internetowego z wykorzystaniem infrastruktury telekomunikacyjnej.
+
+Spis treści
+
+1 Historia Internetu
+2 Terminologia
+
+2.1 Internet a WWW
+2.2 Pisownia
+
+
+3 Internet w Polsce
+
+3.1 Bezpłatny dostęp do Internetu
+
+
+4 Usługi internetowe
+5 Choroby związane z nadmiernym korzystaniem z Internetu
+6 Internet na świecie
+7 Zobacz też
+8 Przypisy
+9 Linki zewnętrzne
+
+
+Historia Internetu[edytuj | edytuj kod źródłowy]
+&#160;Osobny artykuł: Historia Internetu.
+
+Początki Internetu wiążą się z powstaniem sieci rozległej ARPANET i sięgają końca lat 60. XX wieku, gdy amerykańska organizacja badawcza RAND Corporation prowadziła badania studyjne nad możliwościami dowodzenia w warunkach wojny nuklearnej. Na podstawie uzyskanych raportów podjęto prace projektowe nad skonstruowaniem sieci komputerowej mogącej funkcjonować mimo jej częściowego zniszczenia.
+
+Terminologia[edytuj | edytuj kod źródłowy]
+Internet a WWW[edytuj | edytuj kod źródłowy]
+Internet w ogólnym znaczeniu to sieć komputerowa, czyli wiele połączonych ze sobą komputerów, zwanych również hostami, natomiast WWW to usługa internetowa. Innymi znanymi usługami tego rodzaju są: poczta elektroniczna oraz P2P.
+Rozróżnienie pomiędzy siecią a usługami odwołuje się do pojęcia protokołu internetowego, będących określonym zbiorem protokołów komunikacyjnych. Każdy protokół komunikacyjny jest logicznie podzielony na tzw. warstwy: warstwa niższa zapewnia funkcjonalność wymaganą przez najbliższą warstwę wyższą, dodając jednocześnie własne dane pomocnicze i kontrolne. Internet to sieć komputerowa wykorzystująca protokół IP (ang. Internet Protocol). Natomiast usługa WWW wykorzystuje protokół HTTP (ang. HyperText Transfer Protocol), działający w warstwie wyższej, dla której nośną jest warstwa protokołu IP. Protokół HTTP określany jest też mianem "protokołu warstwy aplikacji" z tego względu, że stanowi on warstwę nośną dla danych tworzonych przez oprogramowanie użytkowe, zwane aplikacjami.
+
+Pisownia[edytuj | edytuj kod źródłowy]
+Słowo „Internet” pisze się wielką literą mając na myśli konkretną, globalną sieć komputerową – jest to wtedy nazwa własna. W niektórych przypadkach poprawna jest jednak pisownia małą literą – gdy pisze się o Internecie jako nośniku (medium) informacyjnym, np. „przeczytałem to w internecie” lub używając skrótu myślowego w odniesieniu do fizycznego łącza telekomunikacyjnego, np. „internet mobilny”, „internet przewodowy”, „internet ADSL”. Czasami używa się też słowa „internet” pisanego małą literą w odniesieniu do pojęcia ekstranet (połączona ze sobą grupa sieci komputerowych)[2][3].
+
+Internet w Polsce[edytuj | edytuj kod źródłowy]
+&#160;Osobny artykuł: Internet w Polsce.
+
+Pierwsze internetowe łącze analogowe zostało uruchomione 26 września 1990 r. i miało ono prędkość 9600 bit/sek[4]. Pierwsza transmisja internetowa w Polsce miała miejsce w listopadzie 1990 roku i jest związana z osobą dr. Grzegorza Poloka z Instytutu Fizyki Jądrowej (IFJ) PAN w Krakowie, który ściśle współpracował z CERN (Międzynarodowy Ośrodek Badań Jądrowych) w Genewie[4]. Internet w Polsce dostępny jest oficjalnie od 20 grudnia 1991 roku[5].
+30 kwietnia 1991 w Centrum Komputerowym Uniwersytetu Kopenhaskiego zarejestrowano krajową domenę najwyższego poziomu ".pl".
+17 sierpnia 1991 z Wydziału Fizyki Uniwersytetu Warszawskiego zestawiono pierwsze, trwające 1 minutę, połączenie internetowe przy wykorzystaniu protokołu TCP/IP, z Centrum Komputerowym Uniwersytetu w Kopenhadze[6].
+20 grudnia 1991 placówki naukowe Uniwersytetu Warszawskiego, Instytut Fizyki Jądrowej i Obserwatorium Astronomiczne oraz pojedyncze komputery w Krakowie, Toruniu i Katowicach zostały podłączone do Internetu. Tego samego dnia Stany Zjednoczone zniosły ograniczenia w łączności z Polską.
+W czerwcu 1991 została uruchomiona sieć szkieletowa POLPAK Telekomunikacji Polskiej. W roku 1992, jako pierwsza polska firma, ATM S.A. uzyskała dostęp do Internetu[7]. W sierpniu 1993 roku powstał pierwszy polski serwer WWW, pod nazwą "Polska Strona Domowa"[6]. W 1995 roku powstał pierwszy polski portal internetowy Wirtualna Polska[8]. W kwietniu 1996 roku TP S.A. uruchomiła dostęp anonimowy do Internetu z wykorzystaniem modemów.
+
+Bezpłatny dostęp do Internetu[edytuj | edytuj kod źródłowy]
+Jako pierwsza w Polsce, zainwestowała w tzw. "darmowy internet", podkarpacka gmina Czudec (zasięg 70 procent powierzchni gminy) i urząd miasta Rzeszowa (zasięg 60 procent), który dodatkowo stara się o środki z funduszów unijnych na zwiększenie dostępności "darmowego internetu" m.in. budowę sieci WiMAX, by wszyscy mieszkańcy miasta mogli z niego korzystać[9]. Aby oferta operatorów dostarczających internet abonamentowy była nadal atrakcyjna, "darmowy internet" ma mieć obniżone parametry (np. ograniczenia czasowe w dostępie, szybkość przesyłania danych obniżona nawet czterokrotnie)[10].
+
+Usługi internetowe[edytuj | edytuj kod źródłowy]
+Dostawca usługi internetowej (ang. Internet Service Provider, ISP), lub krótko "dostawca", oprócz łącza do Internetu oferuje również następujące usługi:
+
+ poczta elektroniczna za pomocą własnego portalu lub innego serwera;
+ hosting stron internetowych;
+ serwer plików, np. FTP lub SFTP;
+ filtr rodzinny chroniący, głównie najmłodszych, przed dostępem do treści zakwalifikowanych jako niebezpieczne.
+
+Koszt wymienionych usług jest już, najczęściej, wliczony w koszt usługi podstawowej.
+Oprócz wyżej wymienionych, Internet umożliwia dostęp do szerokiej gamy usług takich jak m.in.:
+
+ dyskusja internetowa, w tym: grupa dyskusyjna, lista dyskusyjna, forum dyskusyjne;
+ komunikator internetowy, np. Gadu-Gadu, ICQ, Jabber, Skype, Tlen, NKtalk, minologia, WTW;
+ IRC czyli rozmowy tekstowe prowadzone w czasie rzeczywistym;
+ VoIP czyli telefonia internetowa;
+ radio internetowe;
+ telewizja internetowa;
+ telekonferencja;
+ faks przez internet;
+ sklepy internetowe;
+ aukcje internetowe;
+ bankowość elektroniczna;
+ gry online.
+
+Niektóre z usług mogą wymagać uiszczenia zapłaty u dostawcy danej usługi
+
+Choroby związane z nadmiernym korzystaniem z Internetu[edytuj | edytuj kod źródłowy]
+Z korzystaniem z Internetu mogą wiązać się następujące choroby:
+
+ Cyberchondria;
+ Zespół uzależnienia od internetu.
+
+Internet na świecie[edytuj | edytuj kod źródłowy]
+&#160;Osobny artykuł: Lista państw świata według liczby użytkowników Internetu.
+
+Zobacz też[edytuj | edytuj kod źródłowy]
+
+
+Portal:  Internet
+ Dzień Bezpiecznego Internetu (ang.) Safer Internet Day
+ netykieta – sieciowy (fr.) savoir-vivre
+
+Przypisy
+
+
+↑ A. S. Tannenbaum:&#32;Sieci komputerowe.&#32;Gliwice&#58;&#32;Helion,&#32;2004. ISBN 83-7361-557-1.
+
+↑ Jaki jest poprawny zapis: Internet czy internet.&#32;Rada Języka Polskiego.&#32;[dostęp 2011-05-16].
+
+↑ Jak to się pisze: Internet czy internet?.&#32;www.internetstandard.pl.&#32;[dostęp 2011-05-16].
+
+↑ 4,0 4,1 Adam Malik:&#32;Prawdziwy początek internetu w Polsce – sensacyjne odkrycie.&#32;www.komputerswiat.pl,&#32;7-10-2011.&#32;[dostęp 2012-10-25].
+
+↑ 20 lat polskiego internetu.&#32;di.com.pl.&#32;[dostęp 2011-09-20].
+
+↑ 6,0 6,1 Hoża i Internet w Polsce.&#32;Uniwersytet Warszawski, Wydział Fizyki.&#32;[dostęp 2011-08-22].
+
+↑ Internet w Polsce – historia, stan obecny i perspektywy rozwoju.&#32;[dostęp 2011-07-05].
+
+↑ Historia Wirtualnej Polski SA.&#32;Wirtualna Polska SA (wp.pl).&#32;[dostęp 2011-08-22].
+
+↑ Internet będzie darmowy.&#32;wiadomosci24.pl,&#32;2006-07-06.
+
+↑ Darmowy Internet już w tym roku.&#32;Rzeczpospolita (rp.pl),&#32;2009-03-05.
+
+
+
+Linki zewnętrzne[edytuj | edytuj kod źródłowy]
+Informacje w&#160;siostrzanych projektach
+ &#160;Ilustracje i media&#160; w Wikimedia Commons &#160;Definicje słownikowe&#160; w Wikisłowniku &#160;Cytaty&#160; w Wikicytatach &#160;Wiadomości&#160; w Wikinews &#160;Podręczniki&#160; w Wikibooks
+ The Unix and Internet Fundamentals HOWTO
+
+p&#160;•&#160;d&#160;•&#160;eProtokoły sieciowe w modelu TCP/IPWarstwa aplikacji(liczby oznaczają numery portów)BGP: 179 • BOOTP: 67, 68 • DHCP: 546, 547 • DNS: 53 • Finger: 79 • FTP: 20, 21 • Gopher: 70 • HTTP: 80 • HTTPS: 443 • IMAP: 143 • IRC: 194 • NetBIOS: 137, 138, 139 • NNTP: 119 • NFS: 2049 • NTP: 123 • POP3: 110 • RADIUS: 1812, 1813 • RIP: 520 • RTP: 5004, 5005 • RTSP: 554 • SNMP: 161, 162 • SMTP: 25, 587 • SSL/TLS • SSH: 22 • Telnet: 23 • WHOIS: 43Warstwa transportowaTCP • UDPWarstwa InternetuIP (IPv4, IPv6) • ICMP • ICMPv6 • IGMP • IPsec • X.25Warstwa dostępu do sieci802.11 WiFi • ADSL • ATM • CSLIP • DSL • Ethernet • FDDI • Fibre Channel • Frame Relay • HDLC • ISDN • PPP • SLIP • SNAP • Token Ring

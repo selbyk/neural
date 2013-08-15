@@ -1,0 +1,186 @@
+# depslib dependency file v1.0
+1375973948 source:/home/selby/Projects/neural/main.cpp
+	<vector>
+	<fstream>
+	<iostream>
+	<ctype.h>
+	"fann.h"
+	"fann_cpp.h"
+
+1327429900 source:/home/selby/Projects/neural/FANN/examples/cascade_train.c
+	<stdio.h>
+	"fann.h"
+
+1327429900 source:/home/selby/Projects/neural/FANN/examples/momentums.c
+	<stdio.h>
+	"fann.h"
+
+1327429900 source:/home/selby/Projects/neural/FANN/examples/mushroom.c
+	<stdio.h>
+	"fann.h"
+
+1327429900 source:/home/selby/Projects/neural/FANN/examples/robot.c
+	<stdio.h>
+	"fann.h"
+
+1327429900 source:/home/selby/Projects/neural/FANN/examples/scaling_test.c
+	<stdio.h>
+	"fann.h"
+
+1327429900 source:/home/selby/Projects/neural/FANN/examples/scaling_train.c
+	"fann.h"
+
+1327429900 source:/home/selby/Projects/neural/FANN/examples/simple_test.c
+	<stdio.h>
+	"floatfann.h"
+
+1327429900 source:/home/selby/Projects/neural/FANN/examples/simple_train.c
+	"fann.h"
+
+1327429900 source:/home/selby/Projects/neural/FANN/examples/steepness_train.c
+	"fann.h"
+	<stdio.h>
+
+1327429900 source:/home/selby/Projects/neural/FANN/examples/xor_sample.cpp
+	"floatfann.h"
+	"fann_cpp.h"
+	<ios>
+	<iostream>
+	<iomanip>
+
+1327429900 source:/home/selby/Projects/neural/FANN/examples/xor_test.c
+	<stdio.h>
+	"fann.h"
+
+1327429900 source:/home/selby/Projects/neural/FANN/examples/xor_train.c
+	<stdio.h>
+	"fann.h"
+
+1327429900 source:/home/selby/Projects/neural/FANN/src/doublefann.c
+	"config.h"
+	"doublefann.h"
+	"fann.c"
+	"fann_io.c"
+	"fann_train.c"
+	"fann_train_data.c"
+	"fann_error.c"
+	"fann_cascade.c"
+
+1327429900 /home/selby/Projects/neural/FANN/src/fann.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	"config.h"
+	"fann.h"
+
+1327429900 /home/selby/Projects/neural/FANN/src/fann_io.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<string.h>
+	"config.h"
+	"fann.h"
+	"fann_data.h"
+
+1327429900 /home/selby/Projects/neural/FANN/src/fann_train.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<string.h>
+	<math.h>
+	"config.h"
+	"fann.h"
+
+1327429900 /home/selby/Projects/neural/FANN/src/fann_train_data.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<string.h>
+	"config.h"
+	"fann.h"
+
+1327429900 /home/selby/Projects/neural/FANN/src/fann_error.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<string.h>
+	"config.h"
+	"fann.h"
+
+1327429900 /home/selby/Projects/neural/FANN/src/fann_cascade.c
+	"config.h"
+	"fann.h"
+	"string.h"
+
+1327429900 source:/home/selby/Projects/neural/FANN/src/fann.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	"config.h"
+	"fann.h"
+
+1327429900 source:/home/selby/Projects/neural/FANN/src/fann_cascade.c
+	"config.h"
+	"fann.h"
+	"string.h"
+
+1327429900 source:/home/selby/Projects/neural/FANN/src/fann_error.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<string.h>
+	"config.h"
+	"fann.h"
+
+1327429900 source:/home/selby/Projects/neural/FANN/src/fann_io.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<string.h>
+	"config.h"
+	"fann.h"
+	"fann_data.h"
+
+1327429900 source:/home/selby/Projects/neural/FANN/src/fann_train.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<string.h>
+	<math.h>
+	"config.h"
+	"fann.h"
+
+1327429900 source:/home/selby/Projects/neural/FANN/src/fann_train_data.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<string.h>
+	"config.h"
+	"fann.h"
+
+1327429900 source:/home/selby/Projects/neural/FANN/src/fixedfann.c
+	"config.h"
+	"fixedfann.h"
+	"fann.c"
+	"fann_io.c"
+	"fann_train.c"
+	"fann_train_data.c"
+	"fann_error.c"
+	"fann_cascade.c"
+
+1327429900 source:/home/selby/Projects/neural/FANN/src/floatfann.c
+	"config.h"
+	"floatfann.h"
+	"fann.c"
+	"fann_io.c"
+	"fann_train.c"
+	"fann_train_data.c"
+	"fann_error.c"
+	"fann_cascade.c"
+
